@@ -3,7 +3,7 @@
 <p align="center"> 
   <samp>
     <br>
-    *** I am a Frontend web application developer ***
+    *** I am a Frontend web developer ***
     <br>
     <br>
   </samp>
