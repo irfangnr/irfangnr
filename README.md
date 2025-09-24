@@ -6,11 +6,9 @@
 
 <div align="center">
   
-  [![Website](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://irfangnr.co.id)
+  [![Website](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://irfangnr.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-ginanjar-fe)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irfan_9i/)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irfangnnr)
   
 </div>
 
@@ -108,10 +106,10 @@ const irfan = {
 
 Feel free to reach out if you want to collaborate on exciting projects or just have a friendly chat about web development!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://irfangnr.co.id)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanginanjar904@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://irfangnr.vercel.app)
 
-**Thanks for visiting! ⭐️ From [Irfan](https://github.com/yourusername)**
+**Thanks for visiting! ⭐️ From [Irfan](https://github.com/irfangnr)**
 
 </div>
 
